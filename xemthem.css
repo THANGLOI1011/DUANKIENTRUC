@@ -1,0 +1,39 @@
+.main-more-item img{
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+    transition: 0.5s;
+    overflow: hidden;
+    object-fit: cover;
+}
+.main-more-item{
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.main-more-item-list{
+    display: flex;
+   
+    overflow: hidden;
+}
+.main-more{
+    padding: 30px 0;
+    overflow: hidden;
+}
+#top-more{
+    margin-top: 90px;
+}.header-logo-more{
+    margin-right: 124px;
+}
+.main-more-item img:hover{
+    transform: scale(1.2);
+}
+.header-nav-more i{
+    color: black;
+}
+
+
+
+
+  

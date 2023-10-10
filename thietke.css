@@ -1,0 +1,44 @@
+.main-attention-item-design{
+    padding-top: 160px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+.main-attention-item-list-design::before{
+    content: '';
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    right: 25px;
+    bottom: 25px;
+    opacity: .5;
+    z-index: 1;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+
+.header-design{
+    color: black;
+    background-color: white;
+}
+.header-design .header-nav-design li>a{
+    color: black;
+}
+.submenu-design li>a{
+    color: black;
+}
+.search-design{
+    color: black;
+}
+.down-design{
+    color: black;
+}
+.footer-container{
+    background-color: #f9f9f9;
+}
+.logo-design{
+    margin-right: 123px;
+}
+.header-nav-design i{
+    color: black;
+}
